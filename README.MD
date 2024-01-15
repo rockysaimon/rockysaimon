@@ -9,17 +9,16 @@ Me llamo Simón, estudiante de ingeniería de sistemas en Colombia. Mi enfoque s
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
 # 📊 GitHub Stats:
-
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rockysaimon&show_icons=true&locale=en" alt="rockysaimon" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rockysaimon&" alt="rockysaimon" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rockysaimon&show_icons=true&locale=en&layout=compact" alt="rockysaimon" /></p>-->
-
-
 ![](https://github-readme-stats.vercel.app/api?username=rockysaimon&theme=gotham&hide_border=false&include_all_commits=true&locale=en)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rockysaimon&theme=gotham&hide_border=false&locale=en)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rockysaimon&theme=gotham&hide_border=false&include_all_commits=true&&locale=en&layout=compact)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rockysaimon&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rockysaimon&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rockysaimon&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
