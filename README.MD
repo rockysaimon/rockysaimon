@@ -15,8 +15,7 @@ Me llamo Simón, estudiante de ingeniería de sistemas en Colombia. Mi enfoque s
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rockysaimon&" alt="rockysaimon" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rockysaimon&show_icons=true&locale=en&layout=compact" alt="rockysaimon" /></p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?
-username=rockysaimon&show_icons=true&locale=en&layout=compact" alt="rockysaimon)
+![](https://github-readme-stats.vercel.app/api?username=rockysaimon&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
 <hr>
 
 ### ✍️ Random Dev Quote
