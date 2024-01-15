@@ -13,12 +13,12 @@ Me llamo Simón, estudiante de ingeniería de sistemas en Colombia. Mi enfoque s
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rockysaimon&show_icons=true&locale=en" alt="rockysaimon" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rockysaimon&" alt="rockysaimon" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rockysaimon&show_icons=true&locale=en&layout=compact" alt="rockysaimon" /></p>
+###<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rockysaimon&show_icons=true&locale=en&layout=compact" alt="rockysaimon" /></p>
+
+
+![](https://github-readme-stats.vercel.app/api?username=rockysaimon&theme=gotham&hide_border=false&include_all_commits=true&locale=en)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rockysaimon&theme=gotham&hide_border=false&include_all_commits=true&&locale=en&layout=compact)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rockysaimon&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<hr>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
