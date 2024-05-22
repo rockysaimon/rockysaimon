@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-<h1>SOBRE MI 🙌</h1>
+<h1>SOBRE MÍ 🙌</h1>
 <p align="center">Estudiante de séptimo semestre de Ingeniería de Sistemas con un interés en el mundo del Data Science y el desarrollo de IA, con conocimientos prácticos en el desarrollo de modelos de Deep Learning y Machine Learning. Destaco por mi habilidad para trabajar en equipo y comunicarme efectivamente, así como mi compromiso con la mejora continua y la resolución de problemas. Busco aplicar mis habilidades y conocimientos en un entorno que me permita seguir creciendo profesionalmente. </p>
 <!--Intro end-->
 
