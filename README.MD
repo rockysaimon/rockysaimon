@@ -44,7 +44,7 @@
 <p align="center">
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,python,tensorflow,numpy,pandas,sql&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,python,tensorflow&perline=14" />
   </a>
 </div>
 </p>
