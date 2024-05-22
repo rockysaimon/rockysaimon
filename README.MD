@@ -1,28 +1,85 @@
 
-# 💫 About Me:
-Me llamo Simón, estudiante de ingeniería de sistemas en Colombia. Mi enfoque se centra en la inteligencia artificial y la ciencia de datos utilizando Python. Además de mi competencia técnica, poseo habilidades en desarrollo frontend, fusionando la potencia de la tecnología con la elegancia del diseño. Mi nivel B2 en inglés facilita la comunicación global y estoy entusiasmado por embarcarme en proyectos que integren innovación y creatividad.
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Nishant</h1></summary>
+  </ul>
+</div>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/simonzf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/simon-zapata-326067169/) 
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)
-<!--# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rockysaimon&theme=gotham&hide_border=false&include_all_commits=true&locale=en)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=rockysaimon&theme=gotham&hide_border=false&locale=en)<br/>
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+  </ul>
+</div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rockysaimon&theme=gotham&hide_border=false&include_all_commits=true&&locale=en&layout=compact)-->
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rockysaimon&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rockysaimon&theme=gotham&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rockysaimon&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<!--Intro start-->
+<h1>SOBRE MI 🙌</h1>
+<p align="center">Estudiante de séptimo semestre de Ingeniería de Sistemas con un interés en el mundo del Data Science y el desarrollo de IA, con conocimientos prácticos en el desarrollo de modelos de Deep Learning y Machine Learning. Destaco por mi habilidad para trabajar en equipo y comunicarme efectivamente, así como mi compromiso con la mejora continua y la resolución de problemas. Busco aplicar mis habilidades y conocimientos en un entorno que me permita seguir creciendo profesionalmente. </p>
+<!--Intro end-->
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
----
-[![](https://visitcount.itsvg.in/api?id=rockysaimon&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+
+
+</p>        
+<!--- stats (end) -->
+
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,linux,python,tensorflow,numpy,pandas,sql&perline=14" />
+  </a>
+</p>
+
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/sim%C3%B3n-zapata-florez-326067169/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+
+<a href="https://www.instagram.com/simonzf/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+  
+</p>
+
+
+<!--profile visit count-->
+<div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
+
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
