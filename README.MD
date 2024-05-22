@@ -20,7 +20,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">🧑🏾‍💻</h2></summary>
   </ul>
 </div>
 
@@ -29,12 +29,6 @@
 <h1>SOBRE MI 🙌</h1>
 <p align="center">Estudiante de séptimo semestre de Ingeniería de Sistemas con un interés en el mundo del Data Science y el desarrollo de IA, con conocimientos prácticos en el desarrollo de modelos de Deep Learning y Machine Learning. Destaco por mi habilidad para trabajar en equipo y comunicarme efectivamente, así como mi compromiso con la mejora continua y la resolución de problemas. Busco aplicar mis habilidades y conocimientos en un entorno que me permita seguir creciendo profesionalmente. </p>
 <!--Intro end-->
-
-
-
-
-
-
 
        
 <!--- stats (end) -->
@@ -48,9 +42,11 @@
 </div>
 <!--tech stack icons-->
 <p align="center">
+<div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,linux,python,tensorflow,numpy,pandas,sql&perline=14" />
   </a>
+</div>
 </p>
 
 
