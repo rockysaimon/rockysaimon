@@ -64,13 +64,13 @@ Apasionado por la resolución de problemas con IA y la implementación de buenas
 </div>
 
 <!--icons and links-->
-<p align="center">
 <div align="justify">
+<p align="center">
 <a href="https://www.linkedin.com/in/sim%C3%B3n-zapata-florez-326067169/" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="linkedin" height="50" width="50" /></a>
 
 <a href="https://www.instagram.com/simonzf/" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=instagram" alt="instagram" height="50" width="50" /></a>
-</div> 
 </p>
+</div> 
 
 
 
