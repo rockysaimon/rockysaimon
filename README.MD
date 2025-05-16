@@ -64,7 +64,7 @@ Apasionado por la resolución de problemas con IA y la implementación de buenas
 </div>
 
 <!--icons and links-->
-<div align="justify">
+<div align="center">
 <p align="center">
 <a href="https://www.linkedin.com/in/sim%C3%B3n-zapata-florez-326067169/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="linkedin" height="50" width="50" /></a>
 
