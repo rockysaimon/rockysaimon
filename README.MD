@@ -12,7 +12,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
@@ -27,7 +27,10 @@
 
 <!--Intro start-->
 <h1 align="center">SOBRE MÍ 🙌</h1>
-<p align="center">Estudiante de séptimo semestre de Ingeniería de Sistemas con un interés en el mundo del Data Science y el desarrollo de IA, con conocimientos prácticos en el desarrollo de modelos de Deep Learning y Machine Learning. Destaco por mi habilidad para trabajar en equipo y comunicarme efectivamente, así como mi compromiso con la mejora continua y la resolución de problemas. Busco aplicar mis habilidades y conocimientos en un entorno que me permita seguir creciendo profesionalmente. </p>
+<p align="center">Ingeniero de Sistemas (9° semestre) con énfasis en Ciencia de Datos e Inteligencia Artificial. Experiencia en el sector 
+financiero en la migración de modelos analíticos, desarrollo de dashboards con Power BI, automatización de procesos y 
+consumo de fuentes sensibles en producción. Manejo de tecnologías como Python, SQL, Power Platform, Spark e Impala. 
+Apasionado por la resolución de problemas con IA y la implementación de buenas prácticas en MLOps. Inglés B2.</p>
 <!--Intro end-->
 
        
@@ -44,7 +47,7 @@
 <p align="center">
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,python,tensorflow&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,linux,python,tensorflow,pytorch,sklearn,anaconda,docker&perline=14" />
   </a>
 </div>
 </p>
