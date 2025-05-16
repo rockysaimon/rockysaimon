@@ -46,8 +46,10 @@ Apasionado por la resolución de problemas con IA y la implementación de buenas
 <!--tech stack icons-->
 <p align="center">
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,linux,python,tensorflow,pytorch,sklearn,anaconda,docker&perline=14" />
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=pyhton,sqlserver,tensorflow,pytorch,keras,scikit,mlflow,sparksql,pandas,numpy,docker,impala"
+    />
   </a>
 </div>
 </p>
