@@ -5,7 +5,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hola 👋, soy Simón</h1></summary>
+    <summary><h1 style="display: inline-block">HI, IM SIMÓN/h1></summary>
   </ul>
 </div>
 
@@ -27,41 +27,11 @@
 
 <!--Intro start-->
 <h1 align="center">SOBRE MÍ 🙌</h1>
-<p align="center">Ingeniero de Sistemas (9° semestre) con énfasis en Ciencia de Datos e Inteligencia Artificial. Experiencia en el sector 
-financiero en la migración de modelos analíticos, desarrollo de dashboards con Power BI, automatización de procesos y 
-consumo de fuentes sensibles en producción. Manejo de tecnologías como Python, SQL, Power Platform, Spark e Impala. 
-Apasionado por la resolución de problemas con IA y la implementación de buenas prácticas en MLOps. Inglés B2.</p>
+<p align="center">Data Engineer with 2+ years of experience designing scalable Data Lakehouse architectures and automating distributed data workflows using Microsoft Fabric, PySpark, Python, SQL, and Delta Lake. Architected an enterprise-grade Data Lakehouse from scratch, implementing Medallion Architecture (Bronze/Silver/Gold) and Star Schema, and built an internal Data Agent that cut query execution and processing times by 45%. Migrated legacy analytical pipelines from IBM SPSS Modeler to modular Python, reducing runtime by 30%, and developed automated executive Power BI dashboards that saved 7 hours weekly in manual reporting. Skilled in ETL/ELT pipeline development, batch and real-time streaming, SCD Type 1/2 modeling, and MLOps tools including Docker, MLflow, FastAPI, and GitHub Actions.</p>
 <!--Intro end-->
 
        
 <!--- stats (end) -->
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías que uso🧠</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-<div align="center">
-  <a href="https://go-skill-icons.vercel.app/">
-    <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=pyhton,sqlserver,tensorflow,pytorch,scikitlearn,mlflow,sparksql,pandas,numpy,docker,impala"
-    />
-  </a>
-</div>
-</p>
-
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Mis redes sociales🤝</h2></summary>
-  </ul>
-</div>
 
 <!--icons and links-->
 <div align="center">
@@ -73,13 +43,6 @@ Apasionado por la resolución de problemas con IA y la implementación de buenas
 </div> 
 
 
-
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=rockysaimon&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
 
 
 <!--horizontal divider(gradiant)-->
