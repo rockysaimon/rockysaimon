@@ -5,7 +5,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">HI, IM SIMÓN/h1></summary>
+    <summary><h1 style="display: inline-block">HI, IM SIMÓN</h1></summary>
   </ul>
 </div>
 
@@ -17,16 +17,8 @@
 </div>
 
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">🧑🏾‍💻</h2></summary>
-  </ul>
-</div>
-
-
 <!--Intro start-->
-<h1 align="center">SOBRE MÍ 🙌</h1>
+<h1 align="center">About me</h1>
 <p align="center">Data Engineer with 2+ years of experience designing scalable Data Lakehouse architectures and automating distributed data workflows using Microsoft Fabric, PySpark, Python, SQL, and Delta Lake. Architected an enterprise-grade Data Lakehouse from scratch, implementing Medallion Architecture (Bronze/Silver/Gold) and Star Schema, and built an internal Data Agent that cut query execution and processing times by 45%. Migrated legacy analytical pipelines from IBM SPSS Modeler to modular Python, reducing runtime by 30%, and developed automated executive Power BI dashboards that saved 7 hours weekly in manual reporting. Skilled in ETL/ELT pipeline development, batch and real-time streaming, SCD Type 1/2 modeling, and MLOps tools including Docker, MLflow, FastAPI, and GitHub Actions.</p>
 <!--Intro end-->
 
