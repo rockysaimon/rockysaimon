@@ -5,7 +5,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block"> HI, IM SIMÓN </h1></summary>
+    <summary><h1 style="display: inline-block"> HI, I'M SIMÓN </h1></summary>
   </ul>
 </div>
 
@@ -16,18 +16,6 @@
 <!--Intro end-->
 
        
-<!--- stats (end) -->
-
-<!--icons and links-->
-<div align="center">
-<p align="center">
-<a href="https://www.linkedin.com/in/simonzf" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="linkedin" height="50" width="50" /></a>
-
-<a href="https://www.instagram.com/simonzf/" target="blank"><img src="https://go-skill-icons.vercel.app/api/icons?i=instagram" alt="instagram" height="50" width="50" /></a>
-</p>
-</div> 
-
-
 
 
 <!--horizontal divider(gradiant)-->
